@@ -6,6 +6,10 @@ A full-stack decentralized voting application built on the Aptos blockchain usin
 <img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/f8d4689b-1a3b-4745-9ff0-f32e8f1d61cd" />
 <img width="1355" height="767" alt="Image" src="https://github.com/user-attachments/assets/3013f53b-6a0b-4c8e-a460-bc3c77a90442" />
 
+
+## Contract
+- Contract address: 0x1fbcba10a3b6cb0e5130fcd7d103c813fe81f8fc757fd0d3cc80fb00689430fa
+
 ## ✨ Features
 
 - **Smart Contract (Move)**
