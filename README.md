@@ -2,6 +2,10 @@
 
 A full-stack decentralized voting application built on the Aptos blockchain using Move language for smart contracts and React for the frontend.
 
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/00c1af6f-701e-4c8f-b5e9-445d566a3422" />
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/f8d4689b-1a3b-4745-9ff0-f32e8f1d61cd" />
+<img width="1355" height="767" alt="Image" src="https://github.com/user-attachments/assets/3013f53b-6a0b-4c8e-a460-bc3c77a90442" />
+
 ## ✨ Features
 
 - **Smart Contract (Move)**
