@@ -1,0 +1,17 @@
+[package]
+name = "web3-aptos"
+version = "1.0.0"
+authors = []
+
+[addresses]
+voting = "_"
+
+[dev-addresses]
+voting = "0x1"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

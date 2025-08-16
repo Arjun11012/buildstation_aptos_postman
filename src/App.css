@@ -1,0 +1,68 @@
+.app-layout {
+  min-height: 100vh;
+}
+
+.app-content {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .app-content {
+    padding: 16px;
+  }
+}
+
+.page-container {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 32px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 24px;
+}
+
+.page-title {
+  color: white;
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.page-subtitle {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.poll-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 24px;
+  margin-top: 24px;
+}
+
+@media (max-width: 768px) {
+  .poll-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .page-container {
+    padding: 20px;
+  }
+  
+  .page-title {
+    font-size: 2rem;
+  }
+} 
